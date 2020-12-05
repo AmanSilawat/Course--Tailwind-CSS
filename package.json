@@ -1,0 +1,26 @@
+{
+  "name": "Course--Tailwind-CSS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build css/style.css -o public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmanSilawat/Course--Tailwind-CSS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmanSilawat/Course--Tailwind-CSS/issues"
+  },
+  "homepage": "https://github.com/AmanSilawat/Course--Tailwind-CSS#readme",
+  "dependencies": {
+    "autoprefixer": "^10.0.4",
+    "postcss": "^8.1.14",
+    "postcss-cli": "^8.3.0",
+    "tailwindcss": "^2.0.1"
+  }
+}
